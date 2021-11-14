@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Chitrakshi123
+- 👀 I’m interested in DataScience job
+- 🌱 I’m currently learning Deep learning
+- 📫 You can contact me on jetawatchitrakshi18@gmail.com
